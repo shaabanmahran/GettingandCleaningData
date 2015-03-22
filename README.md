@@ -1,7 +1,6 @@
 # Introduction
  This is a course project for "Getting and Cleaning Data" course
- 
- part of data science series of courses.
+  part of data science series of courses.
 
 # Description
 * All code is in one file: "run_analysis.R" 
